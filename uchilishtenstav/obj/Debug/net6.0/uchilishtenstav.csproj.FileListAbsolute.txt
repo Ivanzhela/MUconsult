@@ -1,0 +1,7 @@
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.AssemblyInfoInputs.cache
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.AssemblyInfo.cs
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.csproj.CoreCompileInputs.cache
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.RazorAssemblyInfo.cache
+C:\Users\kubrat\source\repos\uchilishtenstav\uchilishtenstav\obj\Debug\net6.0\uchilishtenstav.RazorAssemblyInfo.cs
