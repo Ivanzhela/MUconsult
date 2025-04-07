@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uchilishtenstav")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e13f18eacaa0d544043a6175f1522af294df2bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("uchilishtenstav")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uchilishtenstav")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

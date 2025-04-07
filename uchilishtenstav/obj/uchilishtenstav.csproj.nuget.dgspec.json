@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubrat\\source\\repos\\uchilishtenstav\\uchilishtenstav\\uchilishtenstav.csproj": {}
+    "C:\\Users\\kubrat\\OneDrive\\Documents\\GitHub\\MUconsult\\uchilishtenstav\\uchilishtenstav.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubrat\\source\\repos\\uchilishtenstav\\uchilishtenstav\\uchilishtenstav.csproj": {
+    "C:\\Users\\kubrat\\OneDrive\\Documents\\GitHub\\MUconsult\\uchilishtenstav\\uchilishtenstav.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubrat\\source\\repos\\uchilishtenstav\\uchilishtenstav\\uchilishtenstav.csproj",
+        "projectUniqueName": "C:\\Users\\kubrat\\OneDrive\\Documents\\GitHub\\MUconsult\\uchilishtenstav\\uchilishtenstav.csproj",
         "projectName": "uchilishtenstav",
-        "projectPath": "C:\\Users\\kubrat\\source\\repos\\uchilishtenstav\\uchilishtenstav\\uchilishtenstav.csproj",
+        "projectPath": "C:\\Users\\kubrat\\OneDrive\\Documents\\GitHub\\MUconsult\\uchilishtenstav\\uchilishtenstav.csproj",
         "packagesPath": "C:\\Users\\kubrat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubrat\\source\\repos\\uchilishtenstav\\uchilishtenstav\\obj\\",
+        "outputPath": "C:\\Users\\kubrat\\OneDrive\\Documents\\GitHub\\MUconsult\\uchilishtenstav\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,11 +51,29 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[6.0.36, )"
             }
           },
           "imports": [
