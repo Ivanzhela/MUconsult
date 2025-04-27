@@ -15,6 +15,8 @@ public class Property
     public decimal? Price { get; set; }
     public string RentConditions { get; set; }
 
+    public ICollection<Person> People { get; set; }
+
     public List<Contract> Contracts { get; set; } = new List<Contract>();
 
     public List<Image> Images { get; set; } = new List<Image>();
